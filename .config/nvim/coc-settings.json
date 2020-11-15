@@ -1,0 +1,14 @@
+{
+  "tsserver.npm": "/home/xvoodooxl/.nvm/versions/node/v12.16.3/bin/npm",
+  "eslint.filetypes": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "json"
+  ],
+  "eslint.autoFixOnSave": true,
+  "coc.preferences.formatOnSaveFiletypes": ["javascript", "javascriptreact"],
+  "snippets.userSnippetsDirectory": "~/.config/nvim/snips"
+}
+
