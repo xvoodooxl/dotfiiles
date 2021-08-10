@@ -1,0 +1,6 @@
+[directory]
+style = "fg:blue"
+
+[character]
+success_symbol = "[➜](bold purple) "
+error_symbol = "[✗](bold red) "
